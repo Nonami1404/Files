@@ -1,0 +1,75 @@
+.starting{
+    text-align: center;
+    color: blue;
+    background-color: aqua;
+    border: 3px, solid, red;
+    border-radius: 20px;
+}
+.yellow{
+    background-color: yellow;
+    color: gray;
+}
+.red{
+    color: red;
+}
+.green{
+    color: rgb(20, 185, 70);
+}
+.heading__1{
+    color: rgb(35, 214, 134);
+    background-color: yellow;
+    text-align: center;
+}
+.lion{
+    width: 450px;
+}
+.lion1{
+    text-align: center;
+}
+.custom__video{
+    text-align: center;
+    
+}
+.geg{
+    color: blue;
+}
+.input{
+    width: 900px;
+    height: 40px;
+    font-size: 30px;
+}
+.button{
+    width: 200px;
+    color: white;
+    background-color: rgb(19, 254, 254);
+    height: 30px;
+}
+.blue{
+    background-color: blue;
+}
+.custom__green,
+.custom__red{
+    width: 300px;
+    height: 30px;
+    text-align: center;
+}
+.blue,
+.custom__black{
+    width: 600px;
+    height: 30px;
+    text-align: center;
+}
+.custom__green{
+    background-color: green;
+}
+.custom__red{
+    background-color: red;
+}
+.custom__black{
+    background-color: black;
+}
+.custom__black,
+.custom__green,
+.custom__red{
+    color: white    ;
+}
